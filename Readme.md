@@ -3,13 +3,7 @@
 ## 1r DAM
 ## Grado superior.
 
-
-
-
-
-
-Línia de separació
--------
+---
 Llista no ordenada amb 4 pel·lícules i el seu enllaç a IMDB
 - [Paranormal Cativity](https://www.imdb.com/title/tt1179904/)
 - [Catformers](https://www.imdb.com/title/tt33164391/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Catformers)
